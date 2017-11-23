@@ -1,1 +1,1 @@
-print("Witaj Marysiu!")
+print("Witaj Świecie!")
